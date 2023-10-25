@@ -1,2 +1,2 @@
 # freeCodeCamp
-Landing page with REAct
+Landing page with React and vite
