@@ -1,5 +1,6 @@
 import React from "react"
 import  "../stylesheets/Testimonio.css"
+// componente de testimonio
 //import Emma from "../src/imagenes/testimonio-Emma.png"
 //import shawn from "../src/imagenes/testimonio-shawn.png"
 function Testimonio(props){  
