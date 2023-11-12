@@ -1,8 +1,8 @@
 import React from "react"
 import  "../stylesheets/Testimonio.css"
 // componente de testimonio
-//import Emma from "../src/imagenes/testimonio-Emma.png"
-//import shawn from "../src/imagenes/testimonio-shawn.png"
+//import Emma from "../src/imagenes/testimonio-Emma.png" //imageenes de freecodecamp
+//import shawn from "../src/imagenes/testimonio-shawn.png"//imageenes de freecodecamp
 function Testimonio(props){  
     return(
         <div className="contenedor-testimonio">
